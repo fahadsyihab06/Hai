@@ -1,0 +1,107 @@
+[PM2] Spawning PM2 daemon with pm2_home=/data/data/com.termux/files/home/.pm2
+[PM2] PM2 Successfully daemonized
+[PM2] Starting /data/data/com.termux/files/home/csbot/index.js in fork_mode (1 instance)
+[PM2] Done.
+┌────┬──────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id │ name     │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├────┼──────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 0  │ index    │ default     │ N/A     │ fork    │ 3525     │ 0s     │ 0    │ online    │ 0%       │ 34.9mb   │ u0_a202  │ disabled │
+└────┴──────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+[PM2] Spawning PM2 daemon with pm2_home=/data/data/com.termux/files/home/.pm2
+[PM2] PM2 Successfully daemonized
+[PM2] Starting /data/data/com.termux/files/home/csbot/index.js in fork_mode (1 instance)
+[PM2] Done.
+┌────┬──────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id │ name     │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├────┼──────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 0  │ index    │ default     │ N/A     │ fork    │ 25345    │ 0s     │ 0    │ online    │ 0%       │ 34.0mb   │ u0_a202  │ disabled │
+└────┴──────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+{"level":30,"time":"2025-01-05T04:52:08.289Z","pid":6348,"hostname":"localhost","class":"baileys","browser":["Ubuntu","Chrome","22.04.4"],"helloMsg":{"clientHello":{"ephemeral":"0jO9PuB9DR8SX+MX9/VSyQVVjEOQTGKNUojPRK9LMX0="}},"msg":"connected to WA"}
+{"level":30,"time":"2025-01-05T04:52:08.800Z","pid":6348,"hostname":"localhost","class":"baileys","node":{"username":"6285137843094","passive":true,"userAgent":{"platform":"WEB","appVersion":{"primary":2,"secondary":3000,"tertiary":1017531287},"osVersion":"0.1","device":"Desktop","osBuildNumber":"0.1","releaseChannel":"RELEASE","localeLanguageIso6391":"en","localeCountryIso31661Alpha2":"US"},"webInfo":{"webSubPlatform":"WEB_BROWSER"},"connectType":"WIFI_UNKNOWN","connectReason":"USER_ACTIVATED","device":5},"msg":"logging in..."}
+{"level":30,"time":"2025-01-05T04:52:09.561Z","pid":6348,"hostname":"localhost","class":"baileys","msg":"24 pre-keys found on server"}
+{"level":30,"time":"2025-01-05T04:52:09.880Z","pid":6348,"hostname":"localhost","class":"baileys","msg":"opened connection to WA"}
+✅ Bot WhatsApp berhasil terhubung!
+{"level":30,"time":"2025-01-05T04:52:10.101Z","pid":6348,"hostname":"localhost","class":"baileys","msg":"handled 11 offline messages/notifications"}
+📩 Pesan diterima dari 120363370390307078@g.us: .ai hai
+{"level":30,"time":"2025-01-05T04:52:20.736Z","pid":6348,"hostname":"localhost","class":"baileys","attrs":{"from":"120363370390307078@g.us","class":"message","id":"3EB047F51356F66692CAF5","phash":"2:8xHvnz+7","count":"3","t":"1736052742"},"msg":"received phash in ack, resending message..."}
+{"level":40,"time":"2025-01-05T04:52:20.777Z","pid":6348,"hostname":"localhost","class":"baileys","attrs":{"from":"120363370390307078@g.us","class":"message","id":"3EB047F51356F66692CAF5","phash":"2:8xHvnz+7","count":"3","t":"1736052742"},"msg":"could not send message again, as it was not found"}
+📩 Pesan diterima dari 120363370390307078@g.us: 
+⚠️ Pesan tidak diawali dengan '.ai', diabaikan.
+📩 Pesan diterima dari 120363370390307078@g.us: promt nya ganti dlu dh gua kirm
+⚠️ Pesan tidak diawali dengan '.ai', diabaikan.
+📩 Pesan diterima dari 120363370390307078@g.us: Oke
+⚠️ Pesan tidak diawali dengan '.ai', diabaikan.
+📩 Pesan diterima dari 120363370390307078@g.us: .ai hallo
+❌ Error saat menghubungi API: Request failed with status code 403
+{"level":30,"time":"2025-01-05T04:54:15.459Z","pid":6348,"hostname":"localhost","class":"baileys","attrs":{"from":"120363370390307078@g.us","class":"message","id":"3EB049251A13A61D59322F","phash":"2:8xHvnz+7","count":"3","t":"1736052857"},"msg":"received phash in ack, resending message..."}
+{"level":40,"time":"2025-01-05T04:54:15.477Z","pid":6348,"hostname":"localhost","class":"baileys","attrs":{"from":"120363370390307078@g.us","class":"message","id":"3EB049251A13A61D59322F","phash":"2:8xHvnz+7","count":"3","t":"1736052857"},"msg":"could not send message again, as it was not found"}
+📩 Pesan diterima dari 120363370390307078@g.us: .ai ai
+❌ Error saat menghubungi API: Request failed with status code 403
+{"level":30,"time":"2025-01-05T04:54:25.360Z","pid":6348,"hostname":"localhost","class":"baileys","attrs":{"from":"120363370390307078@g.us","class":"message","id":"3EB001A237A9C63220B538","phash":"2:8xHvnz+7","count":"3","t":"1736052866"},"msg":"received phash in ack, resending message..."}
+{"level":40,"time":"2025-01-05T04:54:25.370Z","pid":6348,"hostname":"localhost","class":"baileys","attrs":{"from":"120363370390307078@g.us","class":"message","id":"3EB001A237A9C63220B538","phash":"2:8xHvnz+7","count":"3","t":"1736052866"},"msg":"could not send message again, as it was not found"}
+📩 Pesan diterima dari 120363370390307078@g.us: .ai iiuai
+❌ Error saat menghubungi API: Request failed with status code 403
+{"level":30,"time":"2025-01-05T04:54:32.268Z","pid":6348,"hostname":"localhost","class":"baileys","attrs":{"from":"120363370390307078@g.us","class":"message","id":"3EB0C1E585E8D3C09D1623","phash":"2:8xHvnz+7","count":"3","t":"1736052873"},"msg":"received phash in ack, resending message..."}
+{"level":40,"time":"2025-01-05T04:54:32.269Z","pid":6348,"hostname":"localhost","class":"baileys","attrs":{"from":"120363370390307078@g.us","class":"message","id":"3EB0C1E585E8D3C09D1623","phash":"2:8xHvnz+7","count":"3","t":"1736052873"},"msg":"could not send message again, as it was not found"}
+📩 Pesan diterima dari 120363370390307078@g.us: .ai UIIAI
+❌ Error saat menghubungi API: Request failed with status code 403
+{"level":30,"time":"2025-01-05T04:55:03.717Z","pid":6348,"hostname":"localhost","class":"baileys","attrs":{"from":"120363370390307078@g.us","class":"message","id":"3EB065D9DA54B47B3A6B75","phash":"2:8xHvnz+7","count":"3","t":"1736052905"},"msg":"received phash in ack, resending message..."}
+{"level":40,"time":"2025-01-05T04:55:03.736Z","pid":6348,"hostname":"localhost","class":"baileys","attrs":{"from":"120363370390307078@g.us","class":"message","id":"3EB065D9DA54B47B3A6B75","phash":"2:8xHvnz+7","count":"3","t":"1736052905"},"msg":"could not send message again, as it was not found"}
+📩 Pesan diterima dari 120363370390307078@g.us: yah eror
+⚠️ Pesan tidak diawali dengan '.ai', diabaikan.
+📩 Pesan diterima dari 120363370390307078@g.us: .ai hi
+❌ Error saat menghubungi API: Request failed with status code 403
+{"level":30,"time":"2025-01-05T04:55:28.981Z","pid":6348,"hostname":"localhost","class":"baileys","attrs":{"from":"120363370390307078@g.us","class":"message","id":"3EB04A4669F04545F24485","phash":"2:8xHvnz+7","count":"3","t":"1736052930"},"msg":"received phash in ack, resending message..."}
+{"level":40,"time":"2025-01-05T04:55:28.996Z","pid":6348,"hostname":"localhost","class":"baileys","attrs":{"from":"120363370390307078@g.us","class":"message","id":"3EB04A4669F04545F24485","phash":"2:8xHvnz+7","count":"3","t":"1736052930"},"msg":"could not send message again, as it was not found"}
+📩 Pesan diterima dari 120363370390307078@g.us: 
+⚠️ Pesan tidak diawali dengan '.ai', diabaikan.
+📩 Pesan diterima dari 120363370390307078@g.us: 
+⚠️ Pesan tidak diawali dengan '.ai', diabaikan.
+📩 Pesan diterima dari 120363370390307078@g.us: 50reques ?
+⚠️ Pesan tidak diawali dengan '.ai', diabaikan.
+📩 Pesan diterima dari 120363370390307078@g.us: Bisa di bilang iyah
+⚠️ Pesan tidak diawali dengan '.ai', diabaikan.
+📩 Pesan diterima dari 120363370390307078@g.us: chat gpt 50 request juga klo free
+⚠️ Pesan tidak diawali dengan '.ai', diabaikan.
+📩 Pesan diterima dari 120363370390307078@g.us: 
+⚠️ Pesan tidak diawali dengan '.ai', diabaikan.
+{"level":30,"time":"2025-01-05T04:57:05.384Z","pid":10812,"hostname":"localhost","class":"baileys","browser":["Ubuntu","Chrome","22.04.4"],"helloMsg":{"clientHello":{"ephemeral":"WWRoLYGKmld+mrpXIgZPA4VlaDNWffUfk7r4dvcm3Fs="}},"msg":"connected to WA"}
+{"level":30,"time":"2025-01-05T04:57:06.089Z","pid":10812,"hostname":"localhost","class":"baileys","node":{"username":"6285137843094","passive":true,"userAgent":{"platform":"WEB","appVersion":{"primary":2,"secondary":3000,"tertiary":1017531287},"osVersion":"0.1","device":"Desktop","osBuildNumber":"0.1","releaseChannel":"RELEASE","localeLanguageIso6391":"en","localeCountryIso31661Alpha2":"US"},"webInfo":{"webSubPlatform":"WEB_BROWSER"},"connectType":"WIFI_UNKNOWN","connectReason":"USER_ACTIVATED","device":5},"msg":"logging in..."}
+{"level":30,"time":"2025-01-05T04:57:07.783Z","pid":10812,"hostname":"localhost","class":"baileys","msg":"24 pre-keys found on server"}
+{"level":30,"time":"2025-01-05T04:57:08.099Z","pid":10812,"hostname":"localhost","class":"baileys","msg":"opened connection to WA"}
+✅ Bot WhatsApp berhasil terhubung!
+{"level":30,"time":"2025-01-05T04:57:08.664Z","pid":10812,"hostname":"localhost","class":"baileys","msg":"handled 1 offline messages/notifications"}
+📩 Pesan diterima dari 120363370390307078@g.us: gpp lah gak selalu ada yg chat ke cs ini
+⚠️ Pesan tidak diawali dengan '.ai', diabaikan.
+📩 Pesan diterima dari 120363370390307078@g.us: .ai hi
+❌ Error saat menghubungi API: Request failed with status code 403
+{"level":30,"time":"2025-01-05T04:58:12.516Z","pid":10812,"hostname":"localhost","class":"baileys","attrs":{"from":"120363370390307078@g.us","class":"message","id":"3EB06FA92AF70A66722A2D","phash":"2:8xHvnz+7","count":"3","t":"1736053094"},"msg":"received phash in ack, resending message..."}
+{"level":40,"time":"2025-01-05T04:58:12.536Z","pid":10812,"hostname":"localhost","class":"baileys","attrs":{"from":"120363370390307078@g.us","class":"message","id":"3EB06FA92AF70A66722A2D","phash":"2:8xHvnz+7","count":"3","t":"1736053094"},"msg":"could not send message again, as it was not found"}
+📩 Pesan diterima dari 120363370390307078@g.us: 
+⚠️ Pesan tidak diawali dengan '.ai', diabaikan.
+📩 Pesan diterima dari 120363370390307078@g.us: Yaudah kita istirahat kan dulu
+⚠️ Pesan tidak diawali dengan '.ai', diabaikan.
+📩 Pesan diterima dari status@broadcast: 
+⚠️ Pesan tidak diawali dengan '.ai', diabaikan.
+📩 Pesan diterima dari status@broadcast: 
+⚠️ Pesan tidak diawali dengan '.ai', diabaikan.
+📩 Pesan diterima dari status@broadcast: 
+⚠️ Pesan tidak diawali dengan '.ai', diabaikan.
+📩 Pesan diterima dari status@broadcast: 
+⚠️ Pesan tidak diawali dengan '.ai', diabaikan.
+📩 Pesan diterima dari status@broadcast: 
+⚠️ Pesan tidak diawali dengan '.ai', diabaikan.
+📩 Pesan diterima dari status@broadcast: 
+⚠️ Pesan tidak diawali dengan '.ai', diabaikan.
+📩 Pesan diterima dari status@broadcast: 
+⚠️ Pesan tidak diawali dengan '.ai', diabaikan.
+{"level":30,"time":"2025-01-05T05:07:57.063Z","pid":18356,"hostname":"localhost","class":"baileys","browser":["Ubuntu","Chrome","22.04.4"],"helloMsg":{"clientHello":{"ephemeral":"0co1hb8UQKk15ungjhlUCbyEGeRKsgpIflnYhESew1U="}},"msg":"connected to WA"}
+{"level":30,"time":"2025-01-05T05:07:57.830Z","pid":18356,"hostname":"localhost","class":"baileys","node":{"username":"6285137843094","passive":true,"userAgent":{"platform":"WEB","appVersion":{"primary":2,"secondary":3000,"tertiary":1017531287},"osVersion":"0.1","device":"Desktop","osBuildNumber":"0.1","releaseChannel":"RELEASE","localeLanguageIso6391":"en","localeCountryIso31661Alpha2":"US"},"webInfo":{"webSubPlatform":"WEB_BROWSER"},"connectType":"WIFI_UNKNOWN","connectReason":"USER_ACTIVATED","device":5},"msg":"logging in..."}
+{"level":30,"time":"2025-01-05T05:07:58.848Z","pid":18356,"hostname":"localhost","class":"baileys","msg":"24 pre-keys found on server"}
+{"level":30,"time":"2025-01-05T05:07:59.285Z","pid":18356,"hostname":"localhost","class":"baileys","msg":"opened connection to WA"}
+✅ Bot WhatsApp berhasil terhubung!
+{"level":30,"time":"2025-01-05T05:07:59.496Z","pid":18356,"hostname":"localhost","class":"baileys","msg":"handled 7 offline messages/notifications"}
+📩 Pesan diterima dari status@broadcast: 
+⚠️ Pesan tidak diawali dengan '.ai', diabaikan.
+📩 Pesan diterima dari 6285339945780@s.whatsapp.net: .ai hi
+❌ Error saat menghubungi API: Request failed with status code 403
